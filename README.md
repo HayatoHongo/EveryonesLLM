@@ -1,31 +1,8 @@
-# **Everyones_nanoGPT Fill-in-the-Blank Notebook Tutorial**
-
-![WebUI.png](assets/WebUI.png)
-
-### [WebApp Released (Now only in Japanese)](https://everyonesai-v2.created.app/)
-
-> This is a complete guide for those who love ChatGPT and want to build their own.<br>
-> You type "Hello," and it replies, "How can I help you today?"<br>
-> When you realize this runs on simple math, your heart races. You cannot sleep.<br>
-> Welcome to deep learning. There is no way back.<br>
-> I wrote this guide on the train to school, squeezed into a tiny seat on the Nanboku Line.<br>
-> Every time I read an excited comment from a student,<br>
-> I feel that those days in that tiny seat had a big meaning.<br>  
-
----
+# ![colab-badge.svg)](assets/colab-badge.svg)ColabGPT: ChatGPT-like AI you can build on Google Colab
 
 ![ColabGPT_demo.gif](assets/ColabGPT_demo.gif)
 
-### [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
-
-
-Now, let us build a GPT model together! 😎  
-In this tutorial, you will find friendly explanations and **100+ fill-in-the-blank questions 🫨**.  
-If you have ever thought, "I kind of want to build an LLM," this is the kind of tutorial that can seriously level you up.  
-With the right background knowledge, you can finish it in 28-42 hours!  
-Everything runs on Google Colab.  
-This tutorial is based on [Andrej Karpathy's nanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing) and [jingyaogong's Minimind](https://github.com/jingyaogong/minimind.git).  
-I want to say a huge and heartfelt thank you to both of them.
+# [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
 
 ---
 
@@ -43,6 +20,9 @@ If you have already implemented them before, feel free to start from the main pa
 | Chapter 02:  MNIST MLP 2    | 1-2 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_DeepLearning_colab_Chapter02_todo_en.ipynb) |
 | Chapter 03:  cVAE | 2-3 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_DeepLearning_colab_Chapter03_todo_en.ipynb) |
 
+
+![WebUI.png](assets/WebUI.png)
+### [WebApp Released (Now only in Japanese)](https://everyonesai-v2.created.app/)
 
 ### ColabGPT
 

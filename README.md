@@ -1,32 +1,8 @@
-# **Google ColabだけでChatGPTのようなAIを作ろう！**
-
-![WebUI.png](assets/WebUI.png)
-
-### [Webアプリで進めてみよう！](https://everyonesai-v2.created.app/)
-> メールのみでログインできるようになっています。学習進捗を秘密にしたい場合、他人に自分のメールアドレスを教えないでください。
-
-これは、「ChatGPTが好き！」「自分でも作ってみたい！」という人のための完全ガイドです。<br>
-「こんにちは！」と打てば「今日はどうしましたか？」と返してくれる。<br>
-それが実は、ただの足し算掛け算と少しの非線形の積み重ねで動いていると知ったとき、<br>
-ワクワクして夜も眠れなくなる――<br>
-ようこそ、ディープラーニングの世界へ。もう元には戻れません。<br>
-このガイドは、毎日南北線のぎゅうぎゅうの席で、通学中に書きました。<br>
-学生さんたちから「できた！」というコメントが届くたび、<br>
-あの小さい席で過ごした時間に大きな意味があったんだなぁと感じています。
-
----
+# **ColabGPT: Google ColabだけでChatGPTのようなAIを作ろう！**
 
 ![ColabGPT_demo.gif](assets/ColabGPT_demo.gif)
 
-さあ、一緒にGPTモデルを作ろう！😎  
-このチュートリアルでは、わかりやすい解説と**100問以上の穴埋め問題🫨**を用意しています。  
-「ちょっとLLM作りたいからやってみたい」――そんな人が本気で力をつけられる内容です。  
-必要な予備知識があれば、28〜42時間で修了可能！  
-すべてGoogle Colab上で動かせます。 
-
----
-
-## 目次
+### [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
 
 ### 基礎知識（ウォーミングアップ）
 
@@ -42,6 +18,10 @@
 
 
 ### ColabGPT
+
+![WebUI.png](assets/WebUI.png)
+### [Webアプリで進めてみよう！](https://everyonesai-v2.created.app/)
+> メールのみでログインできるようになっています。学習進捗を秘密にしたい場合、他人に自分のメールアドレスを教えないでください。
 
 | チャプター  | 推定所要時間 | ノートブック  |
 |---|---|---|
@@ -75,15 +55,6 @@
 | Chapter 26: Checkpoint      | 1時間      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter26_todo_ja.ipynb) |
 | Chapter 27: Pretraining        | 0.5時間 (+ モデル学習 **20時間** )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter27_todo_ja.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5時間 (+ モデル学習 0.5時間 )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter28_todo_ja.ipynb) |
-
-
-
-## **デモ出力例**
-![nanoGPT_demo_output](assets/v2_Everyones_nanoGPT_demo_output.png)
-
-Chapter28...!
-
-![ColabGPT_demo.gif](assets/ColabGPT_demo.gif)
 
 ---
 
@@ -180,11 +151,6 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 | Chapter 28: Vision Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/answer/multimodal_Everyones_nanoGPT_colab_Chapter28_answer_ja.ipynb) |
 
 
-## 謝辞
-
-本プロジェクト **ColabGPT** は、株式会社NTTデータMSE様のご支援のもと、学生団体「東大AI研究会」によるOSSプロジェクトとして完成しました。  
-本教材の開発にあたり、温かいご支援とご協力をいただいた株式会社NTTデータMSE様に、心より感謝申し上げます。
-
 ## 出典
 
 このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。  
@@ -196,4 +162,3 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 ![EveryonesAI Goal](assets/EveryonesAI_goal.png)  
 ![EveryonesAI Idea](assets/EveryonesAI_idea.png)  
 ![EveryonesAI Prerequites](assets/EveryonesAI_prerequites.png)  
-![EveryonesAI Plan](assets/EveryonesAI_plan.png)

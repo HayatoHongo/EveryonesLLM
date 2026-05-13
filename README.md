@@ -59,15 +59,6 @@ If you have already implemented them before, feel free to start from the main pa
 | Chapter 27: Pretraining        | 0.5 hour (+ **20 hours** model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter27_todo_en.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5 hour (+ 0.5 hour model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter28_todo_en.ipynb) |
 
-
-
-## **Demo Output Example**
-![nanoGPT_demo_output](assets/v2_Everyones_nanoGPT_demo_output.png)
-
-Chapter28...!
-
-![ColabGPT_demo.gif](assets/ColabGPT_demo.gif)
-
 ---
 
 ## **Tensor Map (Full Tensor Overview)**

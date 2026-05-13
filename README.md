@@ -1,9 +1,9 @@
-# **Google ColabでChatGPTのようなAIを作ろう！**
+# **Google ColabだけでChatGPTのようなAIを作ろう！**
 
 ![WebUI.png](assets/WebUI.png)
 
 ### [Webアプリで進めてみよう！](https://everyonesai-v2.created.app/)
-> メールのみでログインできるようになっています。学習進捗を秘密にしたい場合、他人に自分のメールアドレスを教えてないでください。
+> メールのみでログインできるようになっています。学習進捗を秘密にしたい場合、他人に自分のメールアドレスを教えないでください。
 
 これは、「ChatGPTが好き！」「自分でも作ってみたい！」という人のための完全ガイドです。<br>
 「こんにちは！」と打てば「今日はどうしましたか？」と返してくれる。<br>
@@ -22,9 +22,7 @@
 このチュートリアルでは、わかりやすい解説と**100問以上の穴埋め問題🫨**を用意しています。  
 「ちょっとLLM作りたいからやってみたい」――そんな人が本気で力をつけられる内容です。  
 必要な予備知識があれば、28〜42時間で修了可能！  
-すべてGoogle Colab上で動かせます。  
-このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。  
-この場を借りて、心から感謝します。
+すべてGoogle Colab上で動かせます。 
 
 ---
 
@@ -186,6 +184,11 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 
 本プロジェクト **ColabGPT** は、株式会社NTTデータMSE様のご支援のもと、学生団体「東大AI研究会」によるOSSプロジェクトとして完成しました。  
 本教材の開発にあたり、温かいご支援とご協力をいただいた株式会社NTTデータMSE様に、心より感謝申し上げます。
+
+## 出典
+
+このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。  
+この場を借りて、心から感謝します。
 
 ## **Project EveryonesAIについて**
 

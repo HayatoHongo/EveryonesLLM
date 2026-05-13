@@ -1,4 +1,4 @@
-# **Everyones_nanoGPT 穴埋めノートブック・チュートリアル**
+# **Google ColabでChatGPTのようなAIを作ろう！**
 
 ![WebUI.png](assets/WebUI.png)
 
@@ -182,6 +182,10 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 | Chapter 28: Vision Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/ja/notebooks/answer/multimodal_Everyones_nanoGPT_colab_Chapter28_answer_ja.ipynb) |
 
 
+## 謝辞
+
+本プロジェクト **ColabGPT** は、株式会社NTTデータMSE様のご支援のもと、学生団体「東大AI研究会」によるOSSプロジェクトとして完成しました。  
+本教材の開発にあたり、温かいご支援とご協力をいただいた株式会社NTTデータMSE様に、心より感謝申し上げます。
 
 ## **Project EveryonesAIについて**
 

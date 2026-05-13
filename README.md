@@ -1,8 +1,8 @@
-# **ColabGPT: Google ColabだけでChatGPTのようなAIを作ろう！**
+# ![colab-badge.svg)](assets/colab-badge.svg)ColabGPT: ColabでChatGPTのようなAIを作ろう！
 
 ![ColabGPT_demo.gif](assets/ColabGPT_demo.gif)
 
-### [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
+# [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
 
 ### 基礎知識（ウォーミングアップ）
 

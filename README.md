@@ -61,7 +61,7 @@ If you have already implemented them before, feel free to start from the main pa
 
 ---
 
-## **Tensor Map (Full Tensor Overview)**
+## **Tensor Map (Full Tensor Overview)** 
 **Try making the tensor map below by yourself!**  
 Do not worry, I prepared lots of hints for you.  
 [View the full-resolution Tensor Map of the nanoGPT model on Canva](https://www.canva.com/design/DAGskS8QP6k/1zs7IklaMrB_LncHn2I8pA/edit?utm_content=DAGskS8QP6k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

@@ -8,19 +8,6 @@
 
 ## Table of Contents
 
-### Basic Knowledge (Warm-up)
-
-If you have never implemented an MLP or VAE before 😥... do not worry!<br>
-This warm-up is a bit of work, but once you finish it, you will be ready to go.<br>
-If you have already implemented them before, feel free to start from the main part.
-
-| Chapter | Estimated Time | Notebook |
-|---|---|---|
-| Chapter 01: MNIST MLP 1        | 2-3 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/main/notebooks/todo/Everyones_DeepLearning_colab_Chapter01_todo_en.ipynb) |
-| Chapter 02:  MNIST MLP 2    | 1-2 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/main/notebooks/todo/Everyones_DeepLearning_colab_Chapter02_todo_en.ipynb) |
-| Chapter 03:  cVAE | 2-3 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/ColabGPT/blob/main/notebooks/todo/Everyones_DeepLearning_colab_Chapter03_todo_en.ipynb) |
-
-
 ![WebUI.png](assets/WebUI.png)
 ### [WebApp Released (Now only in Japanese)](https://everyonesai-v2.created.app/)
 
@@ -67,16 +54,6 @@ Do not worry, I prepared lots of hints for you.
 [View the full-resolution Tensor Map of the nanoGPT model on Canva](https://www.canva.com/design/DAGskS8QP6k/1zs7IklaMrB_LncHn2I8pA/edit?utm_content=DAGskS8QP6k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![Everyones TensorMap](assets/Everyones_nanoGPT_TensorMap_answer.png)
-
----
-
-## **Prerequisite Knowledge and Skills**
-
-**Things I want you to understand**  
-- Matrix multiplication and addition  
-- Mean and variance  
-- ResNet residual connections  
-- How Word2Vector works  
 
 ---
 

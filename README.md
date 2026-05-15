@@ -57,18 +57,6 @@ Do not worry, I prepared lots of hints for you.
 
 ---
 
-## **About the Model**
-
-In this tutorial, we use an ultra-simple "bigram model" where 1 character = 1 token.  
-The internal structure is also very simple.  
-The training dataset is Shakespeare text. It is very old, so it is copyright-free.
-
-Compared with the real GPT-2, this is extremely basic. But if your goal is to learn from the foundations and aim for the real thing, this is the best place to start.  
-On a PC with 16GB of memory, just 2-4 minutes of CPU training is enough to generate text that feels a bit like Shakespeare!  
-I think you will be moved!
-
----
-
 ## **About the Development Environment**
 
 To keep setup easy, please try running all the samples on Google Colab.
@@ -76,12 +64,7 @@ To keep setup easy, please try running all the samples on Google Colab.
 However, Google Colab does not save checkmarks in checkboxes.  
 If you want to track your progress, or if you want to work little by little, say every 30 minutes, I recommend VS Code.  
 In that case, fork this repository and clone it to your own PC.
-
-
-Python 3.12 & PyTorch 2.6.0 is the best setup, but most other versions should also work.  
-Usually, the PyTorch you already have installed is fine!  
-If something does not work, it is a good idea to create a virtual environment with `requirements.txt`.  
-If you use Docker Desktop, the included `Dockerfile` and the Dev Container extension can give you an even more stable environment.
+Just use Google Colab extension for your VS code, then you can use Colab CPU and GPU.
 
 ---
 

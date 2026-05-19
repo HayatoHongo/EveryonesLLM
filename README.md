@@ -156,9 +156,19 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。  
 この場を借りて、心から感謝します。
 
+## 注意
+本プロジェクトはコミュニティベースのオープンソース教育プロジェクトであり、Google社とは全く関係ありません。
+
+## 謝辞
+本プロジェクト「ColabGPT」は、株式会社NTTデータMSE様のご支援のもと、学生団体「東大AI研究
+会」によるOSSプロジェクトとして完成しました。
+本教材の開発にあたり、温かいご支援とご協力をいただいた株式会社NTTデータMSE様に、心より
+感謝申し上げます。
+
 ## **Project EveryonesAIについて**
 
 ![EveryonesAI Logo](assets/EveryonesAI_logo.png)  
 ![EveryonesAI Goal](assets/EveryonesAI_goal.png)  
 ![EveryonesAI Idea](assets/EveryonesAI_idea.png)  
 ![EveryonesAI Prerequites](assets/EveryonesAI_prerequites.png)  
+

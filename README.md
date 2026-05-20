@@ -103,14 +103,9 @@ Just use Google Colab extension for your VS code, then you can use Colab CPU and
 | Chapter 27: Pretraining        | 0.5 hour (+ **20 hours** model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesAI/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter27_answer_en.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5 hour (+ 1 hour model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesAI/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter28_answer_en.ipynb) |
 
-## 注意
-本プロジェクトはコミュニティベースのオープンソース教育プロジェクトであり、Google社とは全く関係ありません。
 
-## 謝辞
-本プロジェクト「EveryonesAI」は、株式会社NTTデータMSE様のご支援のもと、学生団体「東大AI研究
-会」によるOSSプロジェクトとして完成しました。
-本教材の開発にあたり、温かいご支援とご協力をいただいた株式会社NTTデータMSE様に、心より
-感謝申し上げます。
+## Notice
+This project is a community-based open-source educational project and is not affiliated with Google in any way.
 
 ## **About Project EveryonesAI**
 

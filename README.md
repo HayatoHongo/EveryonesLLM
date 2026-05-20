@@ -159,12 +159,6 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 ## 注意
 本プロジェクトはコミュニティベースのオープンソース教育プロジェクトであり、Google社とは全く関係ありません。
 
-## 謝辞
-本プロジェクト「EveryonesAI」は、株式会社NTTデータMSE様のご支援のもと、学生団体「東大AI研究
-会」によるOSSプロジェクトとして完成しました。
-本教材の開発にあたり、温かいご支援とご協力をいただいた株式会社NTTデータMSE様に、心より
-感謝申し上げます。
-
 ## **Project EveryonesAIについて**
 
 ![EveryonesAI Logo](assets/EveryonesAI_logo.png)  

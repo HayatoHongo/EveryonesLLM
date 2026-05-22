@@ -1,4 +1,4 @@
-🌐 Select Language / [日本語 🇯🇵 ](https://github.com/HayatoHongo/Everyones_nanoGPT_ja.git) | [中文 🇨🇳](README.chinese.md)<br>
+🌐 Select Language / [日本語 🇯🇵 ](https://github.com/HayatoHongo/EveryonesLLM/tree/ja) | [中文 🇨🇳](README.chinese.md)
 
 # ![colab-badge.svg)](assets/colab-badge.svg) Build good LLM on Google Colab
 

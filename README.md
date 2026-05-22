@@ -1,4 +1,6 @@
-# ![colab-badge.svg)](assets/colab-badge.svg)EveryonesLLM: ChatGPT-like AI you can build on Google Colab
+🌐 Select Language / [日本語 🇯🇵 ](https://github.com/HayatoHongo/Everyones_nanoGPT_ja.git) | [中文 🇨🇳](README.chinese.md)<br>
+
+# ![colab-badge.svg)](assets/colab-badge.svg) Build good LLM on Google Colab
 
 ![EveryonesLLM_demo.gif](assets/EveryonesLLM_demo.gif)
 

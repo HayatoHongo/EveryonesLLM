@@ -11,7 +11,7 @@
 ## Table of Contents
 
 ![WebUI.png](assets/WebUI.png)
-### [WebApp Released (Now only in Japanese)](https://EveryonesLLM-v2.created.app/)
+### [WebApp Released (Now only in Japanese)](https://EveryonesAI-v2.created.app/)
 
 ### EveryonesLLM
 

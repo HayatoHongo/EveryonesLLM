@@ -1,6 +1,6 @@
 🌐 Select Language / [日本語 🇯🇵 ](https://github.com/HayatoHongo/EveryonesLLM/tree/ja) | [中文 🇨🇳](README.chinese.md)
 
-# ![colab-badge.svg)](assets/colab-badge.svg) Build LLM on Google Colab 
+# ![colab-badge.svg)](assets/colab-badge.svg) Build LLM on Google Colab from scratch
 
 ![EveryonesLLM_demo.gif](assets/EveryonesLLM_demo.gif)
 

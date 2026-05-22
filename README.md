@@ -20,7 +20,7 @@
 ### EveryonesLLM
 
 ![WebUI.png](assets/WebUI.png)
-### [Webアプリで進めてみよう！](https://EveryonesLLM-v2.created.app/)
+### [Webアプリで進めてみよう！](https://EveryonesAI-v2.created.app/)
 > メールのみでログインできるようになっています。学習進捗を秘密にしたい場合、他人に自分のメールアドレスを教えないでください。
 
 | チャプター  | 推定所要時間 | ノートブック  |

@@ -4,7 +4,7 @@
 
 ![EveryonesLLM_demo.gif](assets/EveryonesLLM_demo.gif)
 
-# [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesLLM/EveryonesGPT_SFT)
+# [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
 
 ---
 

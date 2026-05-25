@@ -77,31 +77,11 @@
 
 ---
 
-## **モデルについて**
-
-このチュートリアルで使うのは、1文字＝1トークンという超シンプルな「バイグラムモデル」です。  
-内部構造もかなり単純になっています。  
-学習データセットはShakespeare（シェイクスピア）のテキスト。とても古いので著作権フリーです。
-
-本物のGPT-2と比べると、ものすごく基本的な内容ですが、「基礎から学んで本物を目指す」にはこれがベスト。  
-16GBメモリのPCなら、たった2〜4分のCPU学習だけでシェイクスピアっぽい文章が出てきます！  
-きっと感動するはず！
-
----
-
 ## **開発環境について**
 
-セットアップの手間を減らすため、サンプルはすべてGoogle Colab上で動かしてみてください。
+セットアップの手間を減らすため、サンプルはGoogle Colab上で動かしてください。進捗管理したい場合はVS Codeをお勧めします。このリポジトリをforkして自分のPCにcloneし、<a href="https://marketplace.visualstudio.com/items?itemName=Google.colab">Google Colab拡張機能</a>をインストールしてください。
 
-ただしGoogle Colabでは、チェックボックスのマークが保存されません。  
-進捗管理をしたい人や、30分ごとなど「ちょっとずつ進めたい」人には、VS Codeがおすすめです。  
-その場合は、このリポジトリをforkして、自分のPCにcloneしてください。
-
-
-Python 3.12 & PyTorch 2.6.0がベストですが、たいていは他のバージョンでも動きます。  
-普通は、今インストールしているPyTorchでOK！  
-もし動かない場合は `requirements.txt` で仮想環境を作ると良いです。  
-Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Container拡張でさらに安定した環境を作れます。
+Select Kernel > Colab > New Colab Server > CPU(Chapter13まで) or GPU(Chapter14から) > MyColab(任意で名称記入) > Enterキー 
 
 ---
 
